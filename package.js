@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'raix:push',
+  name: 'insthink:push',
   version: '0.0.0-semantic-release',
-  summary: 'Isomorphic Push notifications for APN and GCM',
-  git: 'https://github.com/raix/push.git'
+  summary: 'Isomorphic Push notifications for APN and GCM - Adds the option to have prod/dev in parallell',
+  git: 'https://github.com/johan-insthink/push'
 });
 
 // Server-side push deps
