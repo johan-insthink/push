@@ -1,6 +1,6 @@
 Package.describe({
   name: 'insthink:push',
-  version: '0.0.0-semantic-release',
+  version: '0.0.1',
   summary: 'Isomorphic Push notifications for APN and GCM - Adds the option to have prod/dev in parallell',
   git: 'https://github.com/johan-insthink/push'
 });
